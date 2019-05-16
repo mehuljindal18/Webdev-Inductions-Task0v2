@@ -1,4 +1,4 @@
-# Webdev-Inductions-Taks0v2
+# Webdev-Inductions-Task0v2
 This is the repository for the Task 0 v2 of the Spider Webdev Inductions
 
 The Main Idea behind this task is for you to understand collaboration on GitHub.So what you need to do is:  
