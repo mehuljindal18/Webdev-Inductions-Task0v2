@@ -1,4 +1,5 @@
 ### Contributors
 
-* Vishnu Priya
-* Shsdhb Shd
+Vishnu Priya
+Nandhini S R
+
