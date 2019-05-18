@@ -1,6 +1,5 @@
 ### Contributors
 
-Vishnu Priya
-
-Nandhini S R
-
+* Vishnu Priya
+* Nandhini S R
+* Sgdshaa 
